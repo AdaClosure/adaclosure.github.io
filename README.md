@@ -8,6 +8,8 @@
 
 “可露希尔”这个角色的诞生，现在受大众意见接受最广的就是NETA了游戏制作人海猫。因为海猫曾经使用过“CLOSURE”作为ID，而这也是可露希尔的英文，而"CLOSURE“这个词在计算机领域中则为“闭包”，是能够连接函数内外部、读取一个函数内变量且定义一个函数内部的函数。
 
+![Image](https://zh.moegirl.org/File:Char_007_closre_2.png)
+
 ```markdown
 Syntax highlighted code block
 
