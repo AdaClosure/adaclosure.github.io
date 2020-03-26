@@ -8,7 +8,11 @@
 
 “可露希尔”这个角色的诞生，现在受大众意见接受最广的就是NETA了游戏制作人海猫。因为海猫曾经使用过“CLOSURE”作为ID，而这也是可露希尔的英文，而"CLOSURE“这个词在计算机领域中则为“闭包”，是能够连接函数内外部、读取一个函数内变量且定义一个函数内部的函数。
 
-![Image](https://zh.moegirl.org/File:Char_007_closre_2.png)
+![Image](https://oss-weslie.oss-cn-shanghai.aliyuncs.com/data/blog_content_pic/closre.png)
+
+### 立绘相关
+
+可露希尔的T恤上的LOGO，是面向开源及私有软件项目的托管平台GitHub，整体设计上并没有大改，还另外在右边加上了小翅膀，暗示了可露希尔和[华法琳](https://zh.moegirl.org/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F:%E5%8D%8E%E6%B3%95%E7%90%B3)是同一个种族。
 
 ```markdown
 Syntax highlighted code block
@@ -29,11 +33,3 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AdaClosure/closure.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
