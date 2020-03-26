@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## 欢迎来到可露希尔的主页
 
-You can use the [editor on GitHub](https://github.com/AdaClosure/closure.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+代号“可露希尔”，本名 阿达·可露希尔·丘奇 Ada "Closure" Church，负责罗德岛的采购、基建、工程等任务。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+自称“42星干员、罗德岛舰船可靠性工程师、罗德岛号SUPERVISOR伟大的系统工程师、卡兹戴尔百强青年、开源软件的倡导者。
 
-### Markdown
+### 代号和名字
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+“可露希尔”这个角色的诞生，现在受大众意见接受最广的就是NETA了游戏制作人海猫。因为海猫曾经使用过“CLOSURE”作为ID，而这也是可露希尔的英文，而"CLOSURE“这个词在计算机领域中则为“闭包”，是能够连接函数内外部、读取一个函数内变量且定义一个函数内部的函数。
 
 ```markdown
 Syntax highlighted code block
