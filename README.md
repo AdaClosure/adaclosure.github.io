@@ -1,35 +1,94 @@
-## 欢迎来到可露希尔的主页
+# Jekyll Resume Theme
 
-代号“可露希尔”，本名 阿达·可露希尔·丘奇 Ada "Closure" Church，负责罗德岛的采购、基建、工程等任务。
+Live demo at https://jekyll-theme-minimal-resume.netlify.com/
 
-自称“42星干员、罗德岛舰船可靠性工程师、罗德岛号SUPERVISOR伟大的系统工程师、卡兹戴尔百强青年、开源软件的倡导者。
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24d80ae8-c3d9-4645-a6d8-9e97fc8dec3c/deploy-status)](https://app.netlify.com/sites/jekyll-theme-minimal-resume/deploys)
 
-### 代号和名字
+# Stack
 
-“可露希尔”这个角色的诞生，现在受大众意见接受最广的就是NETA了游戏制作人海猫。因为海猫曾经使用过“CLOSURE”作为ID，而这也是可露希尔的英文，而"CLOSURE“这个词在计算机领域中则为“闭包”，是能够连接函数内外部、读取一个函数内变量且定义一个函数内部的函数。
+![](https://img.shields.io/badge/jekyll-✓-blue.svg)
+![](https://img.shields.io/badge/html5-✓-blue.svg)
+![](https://img.shields.io/badge/sass-✓-blue.svg)
+![](https://img.shields.io/badge/sweet--scroll-✓-blue.svg)
+![](https://img.shields.io/badge/particle--js-✓-blue.svg)
+![](https://img.shields.io/badge/font--awesome-✓-blue.svg)
+![](https://img.shields.io/badge/devicon-✓-blue.svg)
+![](https://img.shields.io/badge/gulp-✓-blue.svg)
 
-![Image](https://oss-weslie.oss-cn-shanghai.aliyuncs.com/data/blog_content_pic/closre.png)
+***
 
-### 立绘相关
+<h3 align="center">Please help this repo with a :star: if you find it useful! :blush:</h3>
 
-可露希尔的T恤上的LOGO，是面向开源及私有软件项目的托管平台GitHub，整体设计上并没有大改，还另外在右边加上了小翅膀，暗示了可露希尔和[华法琳](https://zh.moegirl.org/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F:%E5%8D%8E%E6%B3%95%E7%90%B3)是同一个种族。
+***
 
-```markdown
-Syntax highlighted code block
+# Screenshot
 
-# Header 1
-## Header 2
-### Header 3
+<p align="center">
+  <img src="https://github.com/murraco/jekyll-theme-minimal-resume/blob/master/screenshot.png" width="90%" />
+</p>
 
-- Bulleted
-- List
+# Quick Setup
 
-1. Numbered
-2. List
+1. Install Jekyll: `gem install jekyll bundler`
+2. Fork this repository and clone your fork
+3. Edit `_config.yml` to personalize your site
 
-**Bold** and _Italic_ and `Code` text
+# Settings
 
-[Link](url) and ![Image](src)
+You have to fill some informations on `_config.yml` to customize your site:
+
+## Site settings
+```yml
+description: A blog about lorem ipsum dolor sit amet
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname & protocol for your site
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## User settings
+```yml
+username: Lorem Ipsum
+user_description: Software Engineer at Lorem Ipsum Dolor
+user_title: Mauricio Urraco
+email: mauriurraco@gmail.com
+```
+
+> Don't forget to change your URL before you deploy your site!
+
+# Color and Particle Customization
+
+- Color Customization
+  - Edit the `.sass` variables
+- Particle Customization
+  - Edit the json data in particle function in `app.js`
+  - Refer to `Particle.js` for help
+
+# Content
+
+You can (and should) edit the `.html` files for adding your own information, icons, working experience, social links or whatever you want to add. I.e.:
+
+```html
+<a aria-label="My Github" target="_blank" href="https://github.com/murraco">
+  <i class="icon fa fa-github-alt" aria-hidden="true"></i>
+</a>
+```
+
+# Running locally
+
+In order to compile the assets and run `Jekyll` locally you need to follow those steps:
+
+1. Install Jekyll
+2. Run `jekyll build`
+3. Start and http-server in the folder `_site`
+
+# Contribution
+
+- Report issues
+- Open pull request with improvements
+- Spread the word
+- Reach out to me directly at <mauriurraco@gmail.com>
+
+# Donate
+
+`btc: 36V7HqqENSKn6iFCBuE4iCdtB29uGoCKzN`
+
+`eth: 0xB419E3E9fa2233383E0877d442e55C34B9C944dD`
