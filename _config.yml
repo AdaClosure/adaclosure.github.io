@@ -1,5 +1,5 @@
 # Site settings
-title: Closure|可露希尔的主页
+title: Closure | 可露希尔的主页
 description: Welcome to Closure's Web Page
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
@@ -7,7 +7,7 @@ description: Welcome to Closure's Web Page
 # User settings
 username: Ada Closure Church
 user_description: Closure in Arknights, Open source software advocate.代号“可露希尔”，本名阿达·可露希尔·丘奇Ada "Closure" Church，负责罗德岛的采购、基建、工程等任务。自称“42星干员、罗德岛舰船可靠性工程师、罗德岛号SUPERVISOR伟大的系统工程师、卡兹戴尔百强青年、开源软件的倡导者”。<img src="https://oss-weslie.oss-cn-shanghai.aliyuncs.com/data/blog_content_pic/closre.png" /> 
-user_title: Open source software advocate 开源软件倡导者。
+user_title: 可露希尔-开源软件倡导者
 email: opensource@ptilcloud.cn
 # github_username:  AdaClosure
 
